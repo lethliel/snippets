@@ -1,0 +1,10 @@
+<collection matches="1">
+  <issue>
+    <created_at>2015-05-27 05:23:01 UTC</created_at>
+    <updated_at>2015-05-27 05:23:01 UTC</updated_at>
+    <name>12345</name>
+    <tracker>bnc</tracker>
+    <label>boo#12345</label>
+    <url>https://bugzilla.opensuse.org/show_bug.cgi?id=12345</url>
+  </issue>
+</collection>

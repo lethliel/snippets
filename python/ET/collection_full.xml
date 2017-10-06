@@ -1,0 +1,17 @@
+<collection matches="1">
+  <issue>
+    <created_at>2017-10-03 19:59:00 UTC</created_at>
+    <updated_at>2017-10-05 09:20:18 UTC</updated_at>
+    <name>1061500</name>
+    <tracker>bnc</tracker>
+    <label>boo#1061500</label>
+    <url>https://bugzilla.opensuse.org/show_bug.cgi?id=1061500</url>
+    <state>OPEN</state>
+    <summary>osc is missing an install dependency on ca-certificates</summary>
+    <owner>
+      <login>mstrigl</login>
+      <email>marco.strigl@suse.com</email>
+      <realname>Marco Strigl</realname>
+    </owner>
+  </issue>
+</collection>
