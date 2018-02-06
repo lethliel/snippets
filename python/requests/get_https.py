@@ -9,7 +9,7 @@ url = 'https://api.opensuse.org/about'
 print('Solution 1 with decode_content=1')
 def https_get():
     r = requests.get(url, stream=True)
-    IPython.embed()
+#    IPython.embed()
     r.raw.decode_content=1
     return r.raw
 
