@@ -1,5 +1,10 @@
 import progressbar as pb
-import urllib
+
+try:
+    import urllib.request as urllib
+except ImportError:
+    import urllib
+    
 url = 'http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso'
 filename = 'tumbleweed.iso'
 
